@@ -1,7 +1,7 @@
 ### TODO list:
 
 Implements tests for following features:
-- [Users]([https://developer.github.com/v3/users]):
+- [Users](https://developer.github.com/v3/users):
     - [X] Get a single user
     - [X] Get the authenticated user
     - [X] Update the authenticated user
