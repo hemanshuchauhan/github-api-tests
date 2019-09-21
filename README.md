@@ -18,9 +18,9 @@ Spock tests for GitHub [REST API v3](https://developer.github.com/v3/).
      
 ### Run tests
 * To run all tests:
-```cmd
-gradle test
-```
+    ```cmd
+    gradle test
+    ```
 
 ## License  
 Copyright © 2019 Vladimir Astakhov [viastakhov@mail.ru]
