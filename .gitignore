@@ -11,5 +11,8 @@ out
 # Ignore IDEA module file
 *.iml
 
+# Ignore log direcory
+log
+
 # Enviroment file
 .env
