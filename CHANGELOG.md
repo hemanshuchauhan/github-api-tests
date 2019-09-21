@@ -10,5 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
  - Tests for Users controller
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
+[Unreleased]: https://github.com/viastakhov/github-api-tests/compare/v1.0.0...HEAD
+[0.0.1]: https://github.com/viastakhov/github-api-tests/releases/tag/v0.0.1
