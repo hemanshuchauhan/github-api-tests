@@ -12,7 +12,7 @@ out
 *.iml
 
 # Ignore log direcory
-log
+logs
 
 # Enviroment file
 .env
